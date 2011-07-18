@@ -1,0 +1,9 @@
+setup.py
+TracNotifo.egg-info/PKG-INFO
+TracNotifo.egg-info/SOURCES.txt
+TracNotifo.egg-info/dependency_links.txt
+TracNotifo.egg-info/entry_points.txt
+TracNotifo.egg-info/top_level.txt
+notifo/__init__.py
+notifo/notifo.py
+notifo/notifosvc.py
